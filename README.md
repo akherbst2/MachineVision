@@ -1,2 +1,2 @@
-# Sobel
-Applies the Sobel operator to an image.
+# Machine Vision
+Various image transformations, including blur, Sobel, and Canny.
